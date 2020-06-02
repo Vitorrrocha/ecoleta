@@ -6,7 +6,7 @@
     <img alt="License" src="https://img.shields.io/github/license/Vitorrrocha/ecoleta?color=34CB79" />
   </a>
 
-  <a href="https://github.com/wesleyfeitosa/ecoleta/issues" style="text-decoration: none">
+  <a href="https://github.com/Vitorrrocha/ecoleta/issues" style="text-decoration: none">
     <img alt="Issues" src="https://img.shields.io/github/issues/Vitorrrocha/ecoleta?color=34CB79" />
   </a>
 
@@ -14,7 +14,7 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vitorrrocha/ecoleta?color=34CB79" />
   </a>
   
-  <a href="https://github.com/wesleyfeitosa/ecoleta/stargazers" style="text-decoration: none">
+  <a href="https://github.com/Vitorrrocha/ecoleta/stargazers" style="text-decoration: none">
     <img alt="Stars" src="https://img.shields.io/github/stars/Vitorrrocha/ecoleta?style=social" />
   </a>
 
