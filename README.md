@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://github.com/wesleyfeitosa/ecoleta/stargazers" style="text-decoration: none">
-    <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/ecoleta?style=social" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/Vitorrrocha/ecoleta?style=social" />
   </a>
 
 </p>
