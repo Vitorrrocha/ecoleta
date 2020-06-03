@@ -1,6 +1,6 @@
 <img alt="GoStack" src="githubAssets/ecoleta.png" />
 
-<p align="center">
+
 
   <a href="LICENSE" style="text-decoration: none">
     <img alt="License" src="https://img.shields.io/github/license/Vitorrrocha/ecoleta?color=34CB79" />
