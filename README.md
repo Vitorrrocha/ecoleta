@@ -32,7 +32,7 @@ This project was developed with the following technologies:
   - SQLite
 - Front-End
   - [React](https://reactjs.org)
--Mobile
+- Mobile
   - [React Native](https://facebook.github.io/react-native/)
 
 ## 💻 Project
